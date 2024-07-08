@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "fpioa.h": "c",
+        "unistd.h": "c",
+        "sysctl.h": "c",
+        "sleep.h": "c",
+        "gpio.h": "c",
+        "platform.h": "c",
+        "uarths.h": "c",
+        "bsp.h": "c",
+        "plic.h": "c",
+        "i2s.h": "c",
+        "st7789.h": "c",
+        "lcd.h": "c",
+        "stdint.h": "c",
+        "dvp_cam.h": "c",
+        "malloc.h": "c",
+        "syscalls.h": "c",
+        "printf.h": "c",
+        "uart.h": "c"
+    }
+}
